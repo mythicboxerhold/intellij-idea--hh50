@@ -1,4 +1,4 @@
-# 
+# instant JetBrains IntelliJ IDEA for PC | JetBrains IntelliJ IDEA for Windows Snippet | terminal-integration + cloud-integration offers the most advanced JetBrains IntelliJ IDEA
 
 
 
